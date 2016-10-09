@@ -34,3 +34,4 @@ source ~/.profile
 ## symlink: ~/.bashrc
 ## symlink: ~/.profile
 ## symlink: ~/.gitconfig (stores global git settings. these can be overridden locally.)
+## symlink: "~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
