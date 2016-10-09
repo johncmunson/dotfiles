@@ -33,3 +33,4 @@ source ~/.profile
 ## symlink: ~/.bash_profile
 ## symlink: ~/.bashrc
 ## symlink: ~/.profile
+## symlink: ~/.gitconfig (stores global git settings. these can be overridden locally.)
