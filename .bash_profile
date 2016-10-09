@@ -7,7 +7,8 @@
 # -----------------------
 # Open .bash_profile (aka PATH)
 alias bash="open -a 'Sublime Text' ~/.bash_profile"
-
+# Copy current absolute path to clipboard
+alias copypath="pwd|pbcopy"
 # Application alias names
 alias slt="open -a 'Sublime Text'"
 alias chrm="open -a 'Google Chrome'"
