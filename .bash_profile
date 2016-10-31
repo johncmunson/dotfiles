@@ -1,12 +1,12 @@
 # General Notes
 # -------------
 # If you switch from Terminal to Zsh, you may need to
-# cut/paste some of the data below into ~/.profile
+# cut/paste some of the data below into ~/.profile or possibly ~/.zshrc
 
 # Helpful alias shortcuts
 # -----------------------
 # Open .bash_profile (aka PATH)
-alias bash="open -a 'Sublime Text' ~/.bash_profile"
+alias bash="atom ~/.bash_profile"
 # Copy current absolute path to clipboard
 alias copypath="pwd|pbcopy"
 # Application alias names
@@ -35,3 +35,4 @@ source ~/.profile
 ## symlink: ~/.profile
 ## symlink: ~/.gitconfig (stores global git settings. these can be overridden locally.)
 ## symlink: "~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+## symlink: ~/.eslintrc (stores global eshint settings. these can be overridden locally.)
