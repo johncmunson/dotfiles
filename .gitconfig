@@ -3,3 +3,5 @@
 # Please adapt and uncomment the following lines:
 	name = John Munson
 	email = johncmunson91@gmail.com
+[core]
+	excludesfile = /Users/johnmunson/.gitignore_global

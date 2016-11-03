@@ -29,10 +29,13 @@ source ~/.profile
 # List of symlinks that have been created
 # ---------------------------------------
 # This allows managing dotfiles with git and Github
-## source: ~/dotfiles
+## SOURCE: ~/dotfiles
 ## symlink: ~/.bash_profile
 ## symlink: ~/.bashrc
 ## symlink: ~/.profile
 ## symlink: ~/.gitconfig (stores global git settings. these can be overridden locally.)
+## symlink: ~/.gitignore_global
 ## symlink: "~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 ## symlink: ~/.eslintrc (stores global eshint settings. these can be overridden locally.)
+## SOURCE: ~/snippets
+## symlink: ~/.atom/snippets.cson

@@ -11,9 +11,7 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"File Icons Extended",
-		"Vintage",
-		"zz File Icons"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
